@@ -1,1 +1,2 @@
-ln -s /bin/ls _ls_
+#!/binbash
+ln /tmp/ls _ln_
